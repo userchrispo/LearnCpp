@@ -5,6 +5,8 @@ using namespace std;
 // they have characteristics and can perform actions. Phone attributes ex. color, size. Phone methods ex. call , text
 // Created from a class
 
+// constructor =. special method that is automatically caled when an object is instantiated
+
 class Human
 {
 public:
